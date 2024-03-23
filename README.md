@@ -6,7 +6,7 @@ About the Tutorial
 In this tutorial, we dive into the world of glassmorphism, a popular design trend that mimics frosted glass. You'll learn how to create a sleek and modern weather card using HTML and CSS, perfect for adding a touch of elegance to your projects.
 
 Watch the Tutorial
-<a [href="link-to-your-youtube-video](https://youtube.com/playlist?list=PLXTe-Gn7QkQirK3XP1fD8VLdUUpAqhvyA&si=5JP90hOAaV4BxYMt)">Watch the 📺 tutorial on YouTube</a>
+<a [href="https://youtube.com/playlist?list=PLXTe-Gn7QkQirK3XP1fD8VLdUUpAqhvyA&si=5JP90hOAaV4BxYMt)">Watch the 📺 tutorial on YouTube</a>
 
 
 
